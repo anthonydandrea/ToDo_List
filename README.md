@@ -7,7 +7,7 @@ The item.h and item.cpp files are used to create "Tasks", which encapsulate each
 
 The todolist.h and todolist.cpp files are used to initialize a single ToDo_List, which holds all of the user's tasks. It can add, remove, 
 and sort tasks (to sort, click onto any background space (anywhere not editable) and simply press 'r'. This function immediately sorts the
-tasks in ascending order by their priority level. Altering what the program sorts by is a very easy change.)
+tasks in descending order by their priority level. Altering what the program sorts by is a very easy change.)
 
 main.cpp simply inits the main Widget (of type ToDoList) and begins the program.
 
