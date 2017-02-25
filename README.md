@@ -11,7 +11,5 @@ tasks in descending order by their priority level. Altering what the program sor
 
 main.cpp simply inits the main Widget (of type ToDoList) and begins the program.
 
-There you have it, that simple! I made this entirely from scratch as a test of how much progress I've made in the little time I've spent
-in Qt. I feel confident in my abilities to make something more complex after having completed this task.
 
 Thanks for reading!
